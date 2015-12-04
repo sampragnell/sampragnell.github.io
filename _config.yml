@@ -11,9 +11,9 @@ description: my learning and computing journal
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn0.iconfinder.com/data/icons/smile-emoticons/78/Emoticons_smile_smiley-04-512.png
 
-#
-# Flags below are optional
-#
+# Code for the storage of image assests
+post_assets : images
+general_assets : images
 
 # Includes an icon in the footer for each username you enter
 footer-links:
