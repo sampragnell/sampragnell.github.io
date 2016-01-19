@@ -1,5 +1,5 @@
 ---
-title: Lesson 1 Media
+title: Media 1
 layout: post
 author: sam.pragnell
 permalink: /untitled-document/
