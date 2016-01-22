@@ -1,0 +1,18 @@
+---
+title: Lesson 2
+layout: post
+author: sam.pragnell
+permalink: /untitled-document/
+source-id: 1yLQQQICuJQKUGgjtCyuygeJp4U5EQ7aXw1lhFDW7F7Q
+published: true
+---
+Lesson 2
+
+First in the lesson we were reminded that google classroom is for reasonable questions. some of the students had done this wrong asking stupid questions that were unnecessary. I've since learnt that questions that are only reasonable should be asked.
+
+Next we performed an activity where the teacher said opinionated statements and we had to pick whether we agreed, disagreed of was neutral. eg: if our friendships were effected by us using social media. Some people's decisions were affected by others. So therefore i learnt some individuals opinions were changed by the influence of others which means some people always will sell you a different identity a bit like i learnt in lesson 1.
+
+In the last part of the lesson we did about the pepsi advert and a chimp was driving a taxi. I learnt how some adverts can have elements of fantasy to it which sometimes add comedy or make you look at something a different way. 
+
+Overall i learnt a lot from the lesson which i will use in later experiences.
+
