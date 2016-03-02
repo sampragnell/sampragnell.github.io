@@ -1,0 +1,16 @@
+---
+title: Identity Map Review
+layout: post
+author: sam.pragnell
+permalink: /untitled-document/
+source-id: 1ZBbu7BL1_F_Y56Zf0i3BA7sGl3S1euibFcIU9jWUPU8
+published: true
+---
+My identity map Review: 
+
+To make my identity map i used pictures,pens,and an A3 sheet of paper.
+
+I started by making a plan drawing it all out in pencil so when i came to do the final piece i knew where everything had to be and what to right. In the plan i thought hard about what is should include and what not to include as i thought i should write what i'd write online.
+
+In the lesson we went round commenting on others work. In each of my comments i gave a comment on what they did well and what they could improve on. I prefer writing comments on a piece of paper because the person receiving the comment puts more thought into your comment and try and improve and see the problem and try and fix it. When reading my comments that made me very happy but there was one comment Bit Boring I was surprised as this didn't contribute to my work so i think opinions that aren’t relevant shouldn’t be stated.when commenting on others work i wrote differently writing what i’d say to their face which made me comment differently and a bit more honestly. In my Identity map i think it a had a good ammount of what i’d like to do in the future . After these 6 lessons i wouldn’t change my social media but will change the way i use social media in the future.
+
