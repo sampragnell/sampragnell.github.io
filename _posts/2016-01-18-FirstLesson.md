@@ -2,7 +2,7 @@
 title: Media Lesson 1
 layout: post
 author: sam.pragnell
-permalink: /untitled-document/
+permalink: /FirstLesson/
 source-id: 1ZLEW9eg3p_2gnRDHAxxFB3KRilWDV_rlt7D5_zQl2yA
 published: true
 ---
