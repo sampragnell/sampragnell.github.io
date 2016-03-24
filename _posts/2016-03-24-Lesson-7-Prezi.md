@@ -1,5 +1,5 @@
 ---
-title: Lesson 7 Prezi
+title: Lesson 8 updated 
 layout: post
 author: sam.pragnell
 permalink: /lesson-7-prezi/
