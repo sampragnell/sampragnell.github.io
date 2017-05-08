@@ -1,5 +1,5 @@
 ---
-title: Copy of Blog Tracker Template
+title: Code Academy Blog 1
 layout: post
 author: sam.pragnell
 permalink: /copy-of-blog-tracker-template/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 1</td>
+    <td>Lesson 1 of Code academy </td>
     <td>Date</td>
-    <td>6/9/16</td>
+    <td>5/5/17</td>
   </tr>
 </table>
 
@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To set up the raspberry pie</td>
+    <td>To get as far as I can </td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes , I got further in starting “Hello World “</td>
+    <td>I got to 9 % through the work</td>
   </tr>
 </table>
 
@@ -41,23 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>In the lesson I learnt what a raspberry pie was and how to set it up , adding a mouse and plugging it into to the monitor and computer.
-I also learnt how to use the program write code in the actually helped towards my end goal and further.
-In the middle of the lesson I saved my work I found this relatively easy as it was in the handbook.</td>
+    <td>I feel I got to grasp well with the Code Academy as it was simple and she to understand especially in the form we are doing which is python , I worked strategically through the puzzles that I faced if i found a problem difficult I would use the hint option in the bottom left of the interface this is an extra clue that you could be missing in your code and it is very hseful yet efficient.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to stop asking other groups and use some initiative to irk out what it telling me to do as it very basic to work out it just needs some thought and effort.
-Also what limited my learning was that our Raspberry pie wasn't working because our fuse didn't work therefore we had to go in groups of three this could be a benefit and a negative as. I'm working in a team but I need to start putting in effort realising my mistakes and correcting them.</td>
+    <td>I feel I did well in the circumstances and I think the progression of my work was well however at points through my lesson I asked my peers to see if I went wrong where as I should be asking for hints or clue to where I am going wrong as that makes me fully understand the code and makes me feel confident that I can code some more advanced stuff in the future of the term.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will improve my learning by putting more effort in and asking only when truly necessary 
-Next to time I will read the book more precisely not missing out any key steps as these could be crucial to me getting it correct and a better grade.</td>
+    <td>Next lesson I will use the hint less as I am not helping myself when I use the feature but I need to remember that everything matters in coding you have to be so pedantic about how look at your code if there is a missing in air for a bracket that is the difference and them margins are the difference between being successful and needed help very 10 minutes</td>
   </tr>
 </table>
 
