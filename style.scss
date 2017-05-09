@@ -16,7 +16,9 @@
 html {
   font-size: 100%;
 }
-
+table, th, td {
+   border: 1px solid black;
+}
 body {
     
   font: 18px/1.4 ;  color:#00001a;
