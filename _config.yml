@@ -6,7 +6,7 @@
 name:  sam.pragnell
 
 # Short bio or description (displayed in the header)
-description: my learning and computing journal
+description: An IT Blogger with a Passion for WHUFC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn0.iconfinder.com/data/icons/smile-emoticons/78/Emoticons_smile_smiley-04-512.png
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: sampragnell11
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
