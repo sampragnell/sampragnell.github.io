@@ -27,17 +27,27 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  background-image: url(http://wallpapercave.com/wp/DM6hvet.jpg);
- 	#rcorners2 {
-    border-radius: 25px;
-    border: 2px solid #73AD21;
-    padding: 20px; 
-    width: 200px;
-    height: 150px; 
+  border-radius: 15px;
+  border-color: #000000;
+  padding: 0 10px;
+  width: 100%;
+  background-color:rgba(35, 50, 55, 0.78);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+	color:#03bca0;
 }
-}
-table, th, td {
-   border: 2px solid white;
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Verdana, Geneva, sans-serif;
+  color: #ffffff;
+  font-weight: bold;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: "Calibri Body", Times, serif;
